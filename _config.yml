@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Thinking & Writing"
+title                    : "생각 글쓰기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sungho In"
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Sungho In"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm just ordinary person"
+  bio              : "글쓰기 연습생"
   location         : "Everywhere"
   email            :
   links:
